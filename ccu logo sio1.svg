@@ -79,10 +79,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.72893082"
-     inkscape:cx="813.52027"
+     inkscape:cx="812.83434"
      inkscape:cy="1009.0121"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-width="2560"
+     inkscape:window-height="1368"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -105,7 +105,8 @@
        style="fill:#000000;fill-opacity:0"
        onmouseover="document.getElementById('simtext').style.display = '';&#10;"
        onmouseout="document.getElementById('simtext').style.display = 'none';"
-       onload="document.getElementById('simtext').style.display = 'none';">
+       onload="document.getElementById('simtext').style.display = 'none';"
+       target="_top">
       <ellipse
          style="fill:#000000;stroke-width:1.05708;fill-opacity:0"
          id="path1"
@@ -124,7 +125,8 @@
        onmousedown=""
        inkscape:highlight-color="#ff0050"
        onmouseover="document.getElementById('cartext').style.display = '';"
-       onload="document.getElementById('cartext').style.display = 'none';">
+       onload="document.getElementById('cartext').style.display = 'none';"
+       target="_top">
       <ellipse
          style="fill:#000000;fill-opacity:0;stroke-width:1.01849"
          id="path2"
@@ -141,7 +143,8 @@
        style="fill:#000000;fill-opacity:0"
        onmouseover="document.getElementById('cretext').style.display = '';"
        onmouseout="document.getElementById('cretext').style.display = 'none';"
-       onload="document.getElementById('cretext').style.display = 'none';">
+       onload="document.getElementById('cretext').style.display = 'none';"
+       target="_top">
       <circle
          style="fill:#000000;stroke-width:1.05285;fill-opacity:0"
          id="path3"
@@ -157,7 +160,8 @@
        style="fill:#000000;fill-opacity:0"
        onmouseover="document.getElementById('drutext').style.display = '';"
        onmouseout="document.getElementById('drutext').style.display = 'none';"
-       onload="document.getElementById('drutext').style.display = 'none';">
+       onload="document.getElementById('drutext').style.display = 'none';"
+       target="_top">
       <circle
          style="fill:#000000;stroke-width:1.03788;fill-opacity:0"
          id="path4"
@@ -173,7 +177,8 @@
        style="fill:#000000;fill-opacity:0"
        onmouseover="document.getElementById('emitext').style.display = '';"
        onmouseout="document.getElementById('emitext').style.display = 'none';"
-       onload="document.getElementById('emitext').style.display = 'none';">
+       onload="document.getElementById('emitext').style.display = 'none';"
+       target="_top">
       <circle
          style="fill:#000000;fill-opacity:0"
          id="path5"
@@ -188,7 +193,8 @@
        xlink:show="Gared/Carmine's Voices"
        onmouseover="document.getElementById('gartext').style.display = '';&#10;"
        onmouseout="document.getElementById('gartext').style.display = 'none';"
-       onload="document.getElementById('gartext').style.display = 'none';">
+       onload="document.getElementById('gartext').style.display = 'none';"
+       target="_top">
       <ellipse
          style="fill:#000000;stroke-width:1.04844;fill-opacity:0"
          id="path6"
@@ -205,7 +211,8 @@
        style="fill:#000000;fill-opacity:0"
        onmouseover="document.getElementById('stutext').style.display = '';"
        onmouseout="document.getElementById('stutext').style.display = 'none';"
-       onload="document.getElementById('stutext').style.display = 'none';">
+       onload="document.getElementById('stutext').style.display = 'none';"
+       target="_top">
       <circle
          style="fill:#000000;stroke-width:1.03957;fill-opacity:0"
          id="path7"
@@ -215,7 +222,7 @@
     </a>
     <a
        id="idkwhothispersonis"
-       xlink:href="/"
+       xlink:href=""
        xlink:title="???"
        xlink:show="???"
        style="fill:#000000;fill-opacity:0">
@@ -252,13 +259,13 @@
          id="tspan16">Drum</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.0681px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#003a37;fill-opacity:1;stroke-width:2.006;stroke:#ffffff;stroke-opacity:1;stroke-dasharray:none;paint-order:markers stroke fill"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.0681px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:none;fill:#003a37;fill-opacity:1;stroke:#ffffff;stroke-width:2.006;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        x="1327.9735"
        y="1166.828"
        id="emitext"
        inkscape:highlight-color="#003a37"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.0681px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#003a37;fill-opacity:1;stroke-width:2.006;stroke:#ffffff;stroke-opacity:1;stroke-dasharray:none;paint-order:markers stroke fill"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.0681px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#003a37;fill-opacity:1;stroke:#ffffff;stroke-width:2.006;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
          id="tspan17">Emily</tspan></text>
     <text
        xml:space="preserve"
