@@ -1,0 +1,17 @@
+.logo {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+
+}
+
+.bg {
+  background-image: linear-gradient(50deg,#720072,#3c315f);
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: -1000000;
+}
