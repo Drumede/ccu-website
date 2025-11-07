@@ -103,7 +103,8 @@
        xlink:title="Simeon"
        xlink:show="Simeon"
        style="fill:#000000;fill-opacity:0"
-       onmouseover="document.getElementById('simtext').style.display = '';&#10;"
+       onmouseover="document.getElementById('simtext').style.display = '';"
+       onmousedown="document.getElementById('simtext').style.display = '';"
        onmouseout="document.getElementById('simtext').style.display = 'none';"
        onload="document.getElementById('simtext').style.display = 'none';"
        target="_top">
@@ -122,9 +123,9 @@
        xlink:show="Carmine/Chorri"
        style="fill:#000000;fill-opacity:0"
        onmouseout="document.getElementById('cartext').style.display = 'none';&#10;&#10;"
-       onmousedown=""
        inkscape:highlight-color="#ff0050"
        onmouseover="document.getElementById('cartext').style.display = '';"
+       onmousedown="document.getElementById('cartext').style.display = '';"
        onload="document.getElementById('cartext').style.display = 'none';"
        target="_top">
       <ellipse
@@ -142,6 +143,7 @@
        xlink:show="Jordan/Creator"
        style="fill:#000000;fill-opacity:0"
        onmouseover="document.getElementById('cretext').style.display = '';"
+       onmousedown="document.getElementById('cretext').style.display = '';"
        onmouseout="document.getElementById('cretext').style.display = 'none';"
        onload="document.getElementById('cretext').style.display = 'none';"
        target="_top">
@@ -160,6 +162,7 @@
        style="fill:#000000;fill-opacity:0"
        onmouseover="document.getElementById('drutext').style.display = '';"
        onmouseout="document.getElementById('drutext').style.display = 'none';"
+       onmousedown="document.getElementById('drutext').style.display = '';"
        onload="document.getElementById('drutext').style.display = 'none';"
        target="_top">
       <circle
@@ -176,6 +179,7 @@
        xlink:show="Emily"
        style="fill:#000000;fill-opacity:0"
        onmouseover="document.getElementById('emitext').style.display = '';"
+       onmousedown="document.getElementById('emitext').style.display = '';"
        onmouseout="document.getElementById('emitext').style.display = 'none';"
        onload="document.getElementById('emitext').style.display = 'none';"
        target="_top">
@@ -191,7 +195,8 @@
        xlink:href="https://carminelol.straw.page/"
        xlink:title="Gared/Carmine's Voices"
        xlink:show="Gared/Carmine's Voices"
-       onmouseover="document.getElementById('gartext').style.display = '';&#10;"
+       onmouseover="document.getElementById('gartext').style.display = '';"
+       onmousedown="document.getElementById('gartext').style.display = '';"
        onmouseout="document.getElementById('gartext').style.display = 'none';"
        onload="document.getElementById('gartext').style.display = 'none';"
        target="_top">
@@ -210,6 +215,7 @@
        xlink:title="I'm Stupid/The Bjrd"
        style="fill:#000000;fill-opacity:0"
        onmouseover="document.getElementById('stutext').style.display = '';"
+       onmousedown="document.getElementById('stutext').style.display = '';"
        onmouseout="document.getElementById('stutext').style.display = 'none';"
        onload="document.getElementById('stutext').style.display = 'none';"
        target="_top">
