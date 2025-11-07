@@ -1,7 +1,7 @@
 const centerArea = document.getElementById('centerarea');
 const outerCenter = document.getElementById('outercenter');
 const closeButton = document.getElementById('closebutton');
-
+closeButton.style.visibility = "hidden"
 function importHtmlToArea(htmlFile, idToImportTo) {
   fetch(htmlFile)
     .then(response => response.text())
@@ -51,6 +51,7 @@ function orbitButtonClicked(htmlFile,idToImportTo) {
     centerArea.classList.add("centeranimin")
     centerArea.addEventListener('animationend', () => {
         centerArea.classList.remove("centeranimin")
+        closeButton.style.visibility = "visible"
     }, { once: true });
 }
 
@@ -59,9 +60,15 @@ createOrbitButton("Test",0,-47,outerCenter).addEventListener('click', function()
     orbitButtonClicked("test.html","textimport")
 });
 
+createOrbitButton("fish",45,-47,outerCenter).addEventListener('click', function() {
+    orbitButtonClicked("fish.html","textimport")
+});
+
+
 closeButton.addEventListener('click', function() {
     centerArea.classList.remove("centeranimin","centeranimplink")
     centerArea.classList.add("centeranimout")
+    closeButton.style.visibility = "hidden"
     centerArea.addEventListener('animationend', () => {
         centerArea.classList.remove("centeranimout")
         centerArea.style.visibility = "hidden"

@@ -127,9 +127,9 @@
 }
 
 .closebutton {
-    position: fixed;
+    position: absolute;
     z-index: 100;
-    transform: translate(-50%,50%) translateY(13cqh)
+    top: 70vh;
 }
 
 .custombutton {
