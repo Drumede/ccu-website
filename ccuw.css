@@ -103,9 +103,11 @@
     border: 5px solid black;
     scrollbar-gutter: stable both-edges;
     background-image: url("monolithlogo.svg");
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: 70%; /* Resize the background image to cover the entire container */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70%;
+    filter: drop-shadow(0 0 10px rgb(255, 255, 255, 0.5));
+
 }
 
 .textcontent {
