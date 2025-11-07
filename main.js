@@ -65,5 +65,6 @@ closeButton.addEventListener('click', function() {
     centerArea.addEventListener('animationend', () => {
         centerArea.classList.remove("centeranimout")
         centerArea.style.visibility = "hidden"
+        unloadHtmlFromArea("textimport")
     }, { once: true });
 });
